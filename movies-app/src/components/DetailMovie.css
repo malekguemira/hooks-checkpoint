@@ -1,0 +1,12 @@
+
+.movie-detail h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 30px;
+}
+
+.video-frame {
+    border: none;
+    border-radius: 10px;
+    width: 200%;
+    height: 500px; 
+}
